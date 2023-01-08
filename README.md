@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hady63gx&label=Profile%20views&color=0e75b6&style=flat" alt="hady63gx" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **OpenCV, PyQt5, MySQL.**
 
 - 📫 How to reach me **hady63gx@gmail.com**
 
