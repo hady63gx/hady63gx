@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hady63gx@gmail.com**
 
-- 📜 Info <a href="https://drive.google.com/file/d/1y9V5qva8oGm5XSlO7lfDlyzt9j733n_D/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://www.kbrs.ca/sites/default/files/styles/basic_hero_desktop/public/2022-05/resume.jpg?h=1aa95fe0&itok=YlSZfeID" alt="bootstrap" width="40" height="40"/> </a> 
+- 📜 Info <a href="https://drive.google.com/file/d/1xfYAPvFoBjq2TA22RDR0JCjv38dlGI_u/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://www.kbrs.ca/sites/default/files/styles/basic_hero_desktop/public/2022-05/resume.jpg?h=1aa95fe0&itok=YlSZfeID" alt="bootstrap" width="40" height="40"/> </a> 
 
 - ⚡ Hobbies **TRPG COC, PHOTOGRAPHY **
 
